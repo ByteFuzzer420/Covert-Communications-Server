@@ -30,7 +30,7 @@ class connect_covert:
                 compressed_message = self.conn.recv(1024)
                 if compressed_message:
                     decoded_message = self.decrypt_with_zlib(compressed_message)
-                    print(f"\n{Fore.CYAN}[" + f"{Fore.RED}Server" + f"{Fore.CYAN}]:" + f"{decoded_message}{Style.RESET_ALL}")
+                    print(f"\n{Fore.CYAN}[" + f"{Fore.RED}Server" + f"{Fore.CYAN}]:" + f" {decoded_message}{Style.RESET_ALL}")
             except Exception as e:
                 print(f"{Fore.RED}Error receiving message: {e}{Style.RESET_ALL}")
                 break
