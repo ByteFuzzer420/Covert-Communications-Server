@@ -34,7 +34,7 @@ are compressed using `zlib` compression, utilizing this will help minimize the a
 
 2. **Run the Tool**:
     ```bash
-    python3 saerveserver.py
+    python3 server.py
     ```
 
 ### Usage for windows
