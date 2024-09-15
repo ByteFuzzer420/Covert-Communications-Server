@@ -1,7 +1,7 @@
 ![Covert-Communications-Server](https://img.shields.io/github/license/kathuluman/Covert-Communications-Server?color=blue&style=for-the-badge) 
 ![Version](https://img.shields.io/github/v/tag/kathuluman/Covert-Communications-Server?color=blue&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Version](https://img.shields.io/badge/version-3.0.0-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
 
 # Covert-Communications-Server
 A Python project I developed inspired by one of my personal projects. With this Covert Communications Server you can ensure that all of your messages to all clients are encrypted and unbreakable.
