@@ -1,5 +1,5 @@
-![Covert-Communications-Server](https://img.shields.io/github/license/kathuluman/Covert-Communications-Server?color=blue&style=for-the-badge) 
-![Version](https://img.shields.io/github/v/tag/kathuluman/Covert-Communications-Server?color=blue&style=for-the-badge)
+![Covert-Communications-Server](https://img.shields.io/github/license/ByteFuzzer420/Covert-Communications-Server?color=blue&style=for-the-badge) 
+![Version](https://img.shields.io/github/v/tag/ByteFuzzer420/Covert-Communications-Server?color=blue&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
 
@@ -21,7 +21,7 @@ are compressed using `zlib` compression, utilizing this will help minimize the a
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/kathuluman/Covert-Communications-Server.git
+    git clone https://github.com/ByteFuzzer420/Covert-Communications-Server.git
     cd Covert-Communications-Server
     ```
 
